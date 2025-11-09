@@ -41,4 +41,4 @@ b=25
 c=10
 print(a>b and a>c)
 print(a>b or a<c)
-print(not(a>b and a>c))
+print(not(a>b and a>c))    
