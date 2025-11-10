@@ -1,3 +1,3 @@
-a=int(input("Enter first number: "))
-b=int(input("Enter second number: "))
-print("Addition:", a *a)
+name="puskar"
+
+print(name[3:6])
