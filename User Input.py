@@ -1,3 +1,3 @@
-a=12
-b=20
-print("The Sum Of Two Numbers is:",a+b)
+a = int(input("Enter The Value:"))
+b = int(input("Enter The Value:"))
+print("The Sum Is:",a+b)
