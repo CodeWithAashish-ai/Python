@@ -1,3 +1,12 @@
-a=("Mafia","Gengster","Hacker","Thief","Robber",90,23.01,True,False,None)
-print(a.
-print(a)
+raja = int(input('enter the number:'))
+
+if (raja>=18):
+    print('eligible for voting')
+elif (raja>=50):
+    print('young people can vote')
+
+elif (raja>= 100):
+    print('not eligible for voting')
+
+else:
+    print('not eligible for voting')
