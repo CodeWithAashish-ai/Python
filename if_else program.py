@@ -1,6 +1,10 @@
-a = 30
+x = 12
 
-if (a >= 70):
-    print("A grade")
-else:
-    print("False stament")
+if x % 2 == 0:
+    print("Even")
+
+if x > 10:
+    print("Greater than 10")
+
+if x < 20:
+    print("Less than 20")
